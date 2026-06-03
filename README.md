@@ -9,4 +9,4 @@ Anggota Kelompok:
 
 Link Aplikasi Pictura: https://pcd-pictura.streamlit.app/
 
-Link Video: 
+Link Video: https://youtu.be/LESKeOPe7Tc?si=bSuXQkfZyCBdoyYa
